@@ -1,4 +1,5 @@
-# Expense Tracker web app
+# Expense Tracker Web App
+This is Day 6 of my 15 Days Web Development Challenge, where I’m building projects from beginner to advanced level.
 
 A simple and clean Expense Tracker built using HTML, CSS, and JavaScript as part of my 15-day Web Development Challenge.
 
